@@ -12,3 +12,4 @@
 8th script deletes the betty file created with the 7th script
 9th script deletes the directory created in 6th script
 10th script changes the working directory to the previous one
+11th script lists all files (even the hiiden ones) in the current directory and the parent of the working directory and the /boot directory in long format
