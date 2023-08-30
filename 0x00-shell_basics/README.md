@@ -2,3 +2,4 @@
 1st script lists all the content of the directory
 2nd script changes the directories to home directory
 3rd script list the content of the directory in long format
+4th script shows all files in the directory even the hidden ones
