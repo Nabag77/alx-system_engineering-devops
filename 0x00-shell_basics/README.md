@@ -15,3 +15,4 @@
 11th script lists all files (even the hiiden ones) in the current directory and the parent of the working directory and the /boot directory in long format
 12th script prints the type of the file named iamafile present in /tmp
 13th script Create a symbolic link to /bin/ls, named _ls_
+14th script Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
