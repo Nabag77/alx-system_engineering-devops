@@ -10,3 +10,4 @@
 6th script creates a directory in tmp directory
 7th script moves the file betty from /tmp to //tmp/my-first-directory
 8th script deletes the betty file created with the 7th script
+9th script deletes the directory created in 6th script
