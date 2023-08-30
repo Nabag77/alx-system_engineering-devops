@@ -8,3 +8,4 @@
      with user and group IDs displayed numerically
      And hidden files starting with 
 6th script creates a directory in tmp directory
+7th script moves the file betty from /tmp to //tmp/my-first-directory
