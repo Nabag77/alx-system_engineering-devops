@@ -17,3 +17,9 @@ rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello"
 11th script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 12 script creates a directory called my_dir with permissions 751 in the working directory.
 13th script changes the group owner to school for the file hello
+
+optional tasks
+100-change_owner_and_group
+101-symbolic_link_permissions
+102-if_only
+103-Star_Wars
