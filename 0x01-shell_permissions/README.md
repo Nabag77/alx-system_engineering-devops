@@ -6,3 +6,4 @@ This readme contains description of the scripts in the file
 4th script creates an empty file called hello
 5th script adds execute permission to the owner of the file hello
 6th script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+7th script adds execution permission to the owner, the group owner and the other users, to the file hello
