@@ -15,3 +15,4 @@ This readme contains description of the scripts in the file
 rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello"
 10th script sets the mode of the file hello the same as olleh’s mode.
 11th script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+12 script creates a directory called my_dir with permissions 751 in the working directory.
