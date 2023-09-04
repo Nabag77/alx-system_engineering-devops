@@ -5,3 +5,4 @@ This README contains the description of each script
 3rd script Display the content of /etc/passwd and /etc/hosts
 4th script Display the last 10 lines of /etc/passwd
 5th script Display the first 10 lines of /etc/passwd
+6th script displays the third line of the file iacta.
