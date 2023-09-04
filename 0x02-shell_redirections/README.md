@@ -13,3 +13,4 @@ This README contains the description of each script
 11th script counts the number of directories and sub-directories in the current directory.
 12th script displays the 10 newest files in the current directory.
 13th script takes a list of words as input and prints only words that appear exactly once.
+14th script Display lines containing the pattern “root” from the file /etc/passwd
