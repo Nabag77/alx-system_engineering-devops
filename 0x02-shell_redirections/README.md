@@ -11,3 +11,4 @@ This README contains the description of each script
 9th script duplicates the last line of the file iacta
 10th script deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 11th script counts the number of directories and sub-directories in the current directory.
+12th script displays the 10 newest files in the current directory.
