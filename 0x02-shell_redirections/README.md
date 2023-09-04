@@ -15,3 +15,4 @@ This README contains the description of each script
 13th script takes a list of words as input and prints only words that appear exactly once.
 14th script Display lines containing the pattern “root” from the file /etc/passwd
 15th script Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+16th script Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
