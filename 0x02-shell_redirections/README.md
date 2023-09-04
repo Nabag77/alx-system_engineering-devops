@@ -21,3 +21,4 @@ This README contains the description of each script
 19th script Replace all characters A and c from input to Z and e respectively.
 20th script removes all letters c and C from input.
 21st scipt reverse its input.
+22nd script displays all users and their home directories, sorted by users.
