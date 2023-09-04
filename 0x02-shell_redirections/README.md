@@ -14,3 +14,4 @@ This README contains the description of each script
 12th script displays the 10 newest files in the current directory.
 13th script takes a list of words as input and prints only words that appear exactly once.
 14th script Display lines containing the pattern “root” from the file /etc/passwd
+15th script Display the number of lines that contain the pattern “bin” in the file /etc/passwd
