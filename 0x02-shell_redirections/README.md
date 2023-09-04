@@ -8,3 +8,4 @@ This README contains the description of each script
 6th script displays the third line of the file iacta.
 7th script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 8th script writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten.
+9th script duplicates the last line of the file iacta
